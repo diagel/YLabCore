@@ -24,6 +24,12 @@ public class Homework {
         }
         System.out.println();
 
+        /** Вторая часть задания */
+        /** Отсортируйте массив [5,6,3,2,5,1,4,9] */
+        int[] array2 = getSortedArray(new int[]{5, 6, 3, 2, 5, 1, 4, 9});
+        System.out.println("Массив {5,6,3,2,5,1,4,9} отсортирован в ");
+        for (Integer i : array2) System.out.print(i + " ");
+        System.out.println();
 
     }
 
