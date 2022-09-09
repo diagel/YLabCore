@@ -4,16 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec4e6510-7784-4ea1-a440-a277b9f57213" name="Changes" comment="" />
+    <list default="true" id="ec4e6510-7784-4ea1-a440-a277b9f57213" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DrBWRdKhC3u7oPPl5Ty5qo6Nzu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -22,6 +29,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/selfImprovement/java/study/others/ylab/core/first_homework&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,6 +67,9 @@
       <workItem from="1661447354979" duration="2544000" />
       <workItem from="1661512354706" duration="9537000" />
       <workItem from="1661576120201" duration="8889000" />
+      <workItem from="1661602812086" duration="127000" />
+      <workItem from="1661658437745" duration="22000" />
+      <workItem from="1662569301955" duration="106000" />
     </task>
     <servers />
   </component>
